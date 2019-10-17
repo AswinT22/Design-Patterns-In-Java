@@ -1,4 +1,6 @@
-package Creational.Singleton.Static;
+package Creational.Singleton.Lazy;
+
+import Creational.Singleton.Static.DbSingleton;
 
 public class DbSingletonTest {
 
