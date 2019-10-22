@@ -26,6 +26,7 @@ public class DbSingleton {
                     instance=new DbSingleton();
 
             }
+            System.out.println("He");
 
 
 
